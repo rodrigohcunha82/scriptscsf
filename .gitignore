@@ -1,0 +1,10 @@
+
+# CSF Next - Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test / runtime artifacts
+*.db
+*.db-wal
+*.db-shm
